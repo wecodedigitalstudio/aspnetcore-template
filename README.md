@@ -1,1 +1,1 @@
-# aspnetcore-template
+# ASP.NET Core Template
